@@ -1,1 +1,18 @@
 # BarbeariaAlura
+- Estrutura básica HTML
+- Definir estilos para elementos usando o CSS
+- Navegue entre páginas web
+- reset.css e o posicionamento pelo CSS
+- Diferente entra inline e block
+- Formulários complexos
+- Trabalhando com campos para celulares
+- Hierarquia no CSS
+- Trabalhando com transformações e transições
+- Bordas e pseudo-classes CSS
+- Posicionamento, listas e navegação
+- Trabalhando com formulários e tabelas
+- Importando conteúdo externo para a pagina HTML, como fontes, vídeos e mapas
+- Pseudo-classes e Pseudo-elementos
+- Avançando no CSS
+- Seletores de CSS avançados
+- Entendendo sobre Viewport e design responsivo
